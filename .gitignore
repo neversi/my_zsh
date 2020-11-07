@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+plan
+my_zsh
 # Object files
 *.o
 *.ko
